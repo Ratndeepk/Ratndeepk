@@ -14,3 +14,4 @@
 
 ![](https://komarev.com/ghpvc/?username=Ratndeepk&style=flat-square&label=Visits)
 
+![Ratndeep's github stats](https://github-readme-stats.vercel.app/api?username=Ratndeepk&count_private=true&show_icons=true&theme=onedark&hide=prs,issues,contribs)
